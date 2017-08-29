@@ -1,0 +1,13 @@
+{
+	"name": "atticlab/stellar-php-sdk",
+	"require": {
+		"php":">=5.3.0",
+		"ext-curl": "*"
+	},
+	"require-dev": {},
+	"autoload": {
+        "psr-4": {
+            "Smartmoney\\Stellar\\": "src"
+        }
+    }
+}
